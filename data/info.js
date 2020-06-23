@@ -1,5 +1,5 @@
 export const siteTitle = "humous"
-export const siteUrl = "https://humous.iamlizu.com"
+export const siteUrl = "https://humous.herokuapp.com"
 export const siteLogo = "https://user-images.githubusercontent.com/26184316/85332019-f98edd00-b4f8-11ea-8b11-4528e7849708.png"
 export const siteTagLine = "Your favorite blog application!"
 export const siteTwitter = "@iamlizu"

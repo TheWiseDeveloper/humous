@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "concurrently \"cd lib && node getMenuItems.js\" \"next dev\"",
     "build": "concurrently \"cd lib && node getMenuItems.js\" \"next build\"",
-    "start": "concurrently \"cd lib && node getMenuItems.js\" \"next start\""
+    "start": "concurrently \"cd lib && node getMenuItems.js\" \"next start -p $PORT\""
   },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
